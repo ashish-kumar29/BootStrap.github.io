@@ -1,0 +1,50 @@
+.jumbotron{
+ 
+  background: url(back.jpg);
+ 
+  background-size: 100% 100%;
+  
+  text-align: center;
+
+  margin-top:10px;
+
+  padding-top:100px;
+
+  height:500px;
+ 
+}
+  
+#email{
+ 
+  width:300px;
+ 
+}
+ 
+#submit{
+ 
+  margin-bottom:10px;
+ 
+}
+
+#con{
+ 
+  text-align:center;
+  
+  margin-bottom:100px;
+
+      margin-top:100px
+  }
+ 
+  #footer{
+  
+    text-align:center;
+  
+    padding-top:80px;
+   
+    padding-bottom:80px;
+  
+    background-color:#13f907;
+  
+    margin:20px;
+ 
+  }
